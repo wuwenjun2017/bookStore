@@ -1,0 +1,2 @@
+
+INSERT INTO BOOK (TITLE, AUTHOR, PRICE, CATEGORY) VALUES('b', '乔布斯', 1, '科技' );
